@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohith Raju</h1>
+<h1 align="center">Hi 👋, I'm Rohit Raj</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Dynamic Web Application for Healthcare Management**
