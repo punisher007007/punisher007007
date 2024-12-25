@@ -2,7 +2,7 @@
 ### Senior Full Stack Developer | Healthcare Tech | MS Computer Science (GPA: 3.93)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithrajukanchanapalli/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://rohtih-fullstackdeveloper.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.rohithraju.com/)
 
 ## 🎯 Summary
 Senior Full Stack Developer driving enterprise healthcare innovations at Cotiviti. Expertise in HIPAA-compliant applications, cloud architecture, and high-performance systems. MS in Computer Science candidate at Florida Atlantic University.
