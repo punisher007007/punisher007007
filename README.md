@@ -76,4 +76,4 @@ Lovely Professional University *(2016 - 2020)*
 *Senior Software Engineer with proven expertise in Healthcare Tech & Enterprise Systems*
 - 📍 Florida
 - 📧 rajurohit144@gmail.com
-- 💼 Open to Senior/Lead Engineering roles
+- 💼 Open to Full Stack/ Frontend Developer Roles
