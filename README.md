@@ -1,7 +1,10 @@
+<h1 align="center">Hi, I'm Rohith 👋</h1>
+<h3 align="center">Frontend Engineer • UI Specialist • Web Performance Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohithexample/assets/main/banner-abstract.svg" alt="Rohith's Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 <!-- ⌨️ Typing Intro -->
 <p align="center">
