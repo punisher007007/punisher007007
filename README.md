@@ -43,16 +43,5 @@
 
 ---
 
-### 📫 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=web&style=for-the-badge" />
-  </a>
 </p>
