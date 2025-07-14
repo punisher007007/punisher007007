@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/rohithexample/assets/main/banner-abstract.svg" />
 
-<!-- 🖼 Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohithexample/assets/main/banner-abstract.svg" alt="Rohith's Banner" width="100%" />
 </p>
