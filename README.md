@@ -4,13 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-
-<!-- ⌨️ Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Rohith+👋;Frontend+Engineer+%7C+UI+Architect;Building+interfaces+that+scale+and+delight" />
-</p>
-
 ---
 
 ### 🧠 About Me
