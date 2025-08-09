@@ -4,13 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=RAJU%20KANCHAN&fontSize=90&fontAlignY=35&desc=Senior%20Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=62&animation=twinkling" width="100%" />
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Building+Payment+Solutions+at+American+Express+%F0%9F%92%B3;5%2B+Years+of+Full-Stack+Excellence+%F0%9F%9A%80;Architecting+Systems+with+99.99%25+Uptime+%E2%9A%A1;Processing+Millions+of+Transactions+Daily+%F0%9F%92%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Building+Scalable+Payment+Solutions+%F0%9F%92%B3;Architecting+Systems+with+99.99%25+Uptime+%E2%9A%A1;Processing+Millions+of+Transactions+Daily+%F0%9F%92%B9;Full-Stack+Engineering+Excellence+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- 3D Profile Views Counter & Badges -->
+<!-- Professional Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=punisher007007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/punisher007007?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
   <a href="https://linkedin.com/in/rajukanch"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Work-Senior_SWE_Roles-00D9FF?style=for-the-badge" alt="Open to Work" />
 </p>
 
 <!-- Animated Line -->
@@ -20,7 +19,7 @@
 
 <!-- 3D Text Banner -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=🚀%20Open%20for%20Senior%20SWE%20Opportunities%20🚀&width=1000&height=100" width="100%" />
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=🚀%20Open%20for%20Senior%20Engineering%20Opportunities%20🚀&width=1000&height=100" width="100%" />
 </div>
 
 <!-- About Me Section with Gradient Background -->
@@ -37,24 +36,24 @@
 
 ```javascript
 const rajuKanchan = {
-  currentRole: "Software Engineer II @ American Express",
+  role: "Senior Software Engineer",
   location: "Coral Springs, FL, USA 🇺🇸",
-  experience: "5+ Years",
+  expertise: ["Full-Stack Development", "Cloud Architecture", "System Design"],
   education: {
-    masters: "Florida Atlantic University (GPA: 3.93)",
+    masters: "Computer Science (GPA: 3.93)",
     bachelors: "Computer Engineering (GPA: 3.89)"
   },
   currentFocus: [
-    "Payment Tokenization Platform",
-    "Merchant API Solutions",
-    "Cloud-Native Architecture",
-    "99.99% Uptime Systems"
+    "Payment Processing Systems",
+    "Microservices Architecture",
+    "Cloud-Native Solutions",
+    "High-Performance APIs"
   ],
   achievements: {
     "API Performance": "30% latency reduction",
     "System Reliability": "99.99% uptime achieved",
-    "Scale": "Processing millions of transactions daily",
-    "Team Impact": "25% defect reduction through mentorship"
+    "Scale": "Millions of transactions daily",
+    "Code Quality": "25% defect reduction"
   }
 };
 ```
@@ -64,16 +63,16 @@ const rajuKanchan = {
 
 <div align="center">
   
-### 🎯 **What I Bring to the Table**
+### 🎯 **Core Competencies**
 
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="90%" />
 
 ✅ **Production-Grade Systems** at Scale  
 ✅ **PCI-Compliant** Payment Solutions  
-✅ **Microservices** Architecture Expert  
-✅ **Cloud-Native** Development (AWS)  
-✅ **Full-Stack** Proficiency  
-✅ **Agile Team** Leadership  
+✅ **Microservices** Architecture Design  
+✅ **Cloud-Native** Development  
+✅ **Full-Stack** Engineering  
+✅ **Technical** Team Leadership  
 
 </div>
 
@@ -106,26 +105,73 @@ const rajuKanchan = {
 
 </div>
 
-<!-- Animated Stats Section -->
+<!-- Skills Matrix Section instead of GitHub Stats -->
 <div align="center">
-<img src="https://img.shields.io/badge/%F0%9F%93%8A%20GITHUB%20ANALYTICS%20%F0%9F%93%8A-000000?style=for-the-badge&labelColor=000000" width="100%" height="30" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20EXPERTISE%20MATRIX%20%F0%9F%8E%AF-000000?style=for-the-badge&labelColor=000000" width="100%" height="30" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=punisher007007&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Raju Kanchan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punisher007007&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🎨 Frontend</h3>
+<img src="https://img.shields.io/badge/React-Expert-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+<img src="https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square&logo=next.js&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-Expert-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Redux-Advanced-593D88?style=flat-square&logo=redux&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Tailwind-Advanced-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<h3>⚙️ Backend</h3>
+<img src="https://img.shields.io/badge/Node.js-Expert-43853D?style=flat-square&logo=node.js&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/GraphQL-Advanced-E10098?style=flat-square&logo=graphql&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/REST_APIs-Expert-009688?style=flat-square" />
+</td>
+<td align="center" width="33%">
+<h3>☁️ DevOps</h3>
+<img src="https://img.shields.io/badge/AWS-Expert-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/CI/CD-Expert-2088FF?style=flat-square&logo=github-actions&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Terraform-Advanced-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Coding Activity & Learning -->
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%93%88%20CONTINUOUS%20LEARNING%20%F0%9F%93%88-000000?style=for-the-badge&labelColor=000000" width="100%" height="30" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punisher007007&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" width="90%" />
-</div>
+  
+### 🌱 Currently Exploring
 
-<!-- 3D Contribution Graph -->
-<div align="center">
-<img src="https://img.shields.io/badge/%F0%9F%94%A5%20CONTRIBUTION%20GRAPH%20%F0%9F%94%A5-000000?style=for-the-badge&labelColor=000000" width="100%" height="30" />
-</div>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" />
+<br><b>Rust</b><br>Systems Programming
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+<br><b>Go</b><br>Microservices
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+<br><b>ML/AI</b><br>TensorFlow & PyTorch
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" />
+<br><b>Event Streaming</b><br>Kafka & RabbitMQ
+</td>
+</tr>
+</table>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punisher007007&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true)
+</div>
 
 <!-- Featured Projects with 3D Cards -->
 <div align="center">
@@ -148,7 +194,7 @@ const rajuKanchan = {
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 </p>
-<p align="center">Enterprise-grade payment processing with tokenization, PCI compliance, and real-time monitoring. Processing 1M+ transactions daily with 99.99% uptime.</p>
+<p align="center">Enterprise-grade payment processing with tokenization, PCI compliance, and real-time monitoring. Processing millions of transactions daily with 99.99% uptime.</p>
 </td>
 <td width="50%">
 <h3 align="center">📊 Real-Time Analytics Dashboard</h3>
@@ -163,7 +209,7 @@ const rajuKanchan = {
 <img src="https://img.shields.io/badge/WebSocket-000000?style=flat&logo=websocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
 </p>
-<p align="center">Interactive financial dashboard with real-time data visualization, WebSocket connections, and advanced analytics. 20% increase in user satisfaction.</p>
+<p align="center">Interactive financial dashboard with real-time data visualization, WebSocket connections, and advanced analytics capabilities.</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +226,7 @@ const rajuKanchan = {
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 </p>
-<p align="center">High-throughput data processing system handling financial data with real-time processing. 30% improvement in data processing throughput.</p>
+<p align="center">High-throughput data processing system handling financial data with real-time processing and 30% improvement in throughput.</p>
 </td>
 <td width="50%">
 <h3 align="center">☁️ Cloud Infrastructure Automation</h3>
@@ -195,7 +241,7 @@ const rajuKanchan = {
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
 </p>
-<p align="center">Infrastructure-as-Code solution for automated deployment and scaling. 40% reduction in deployment time with full CI/CD integration.</p>
+<p align="center">Infrastructure-as-Code solution for automated deployment and scaling with 40% reduction in deployment time.</p>
 </td>
 </tr>
 </table>
